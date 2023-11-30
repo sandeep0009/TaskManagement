@@ -25,12 +25,13 @@ This is a Task Management application built with Vite and React. It allows users
    git clone https://github.com/your-username/task-management.git
 
 2 **Navigate through Project Directory:**
-  cd taskmanagement
+   cd taskmanagement
 
 3 **Install Depenedencies:**
-  npm install
-4 **run development server:**
+    npm install
 
+    
+4 **run development server:**
   npm run dev
 
 
