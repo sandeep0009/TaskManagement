@@ -35,4 +35,8 @@ This is a Task Management application built with Vite and React. It allows users
   npm run dev
 
 
+## Netlify deployed links :
+[Netlify Deployed Site](https://657ed7c0cd7a7c5be9dda111--astonishing-macaron-230201.netlify.app/)
+
+
 
